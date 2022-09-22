@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Mohamed Ahmed Elgeady
-- 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mohamed20a/Mohamed20a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/Mohamed20a/Mohamed20a/main/photo%20.jpeg"/>
+ <hr></hr>
+<p align="center" font-size="30px">
+  <samp>
+    Hi, I'm Mohamed! 👋 <br>
+    🔥 Front-End grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Html, Css, Javascript, jQurey, Bootstrap ... <br>
+    :notebook: I’m currently learning React ... 😭  <br>
+    :email:	m16ahmed17@gmail.com <br>
+    :art: Portfolio: https://github.com/Mohamed20a <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-bb358b239/ <br>
+                Twitter: https://twitter.com/saadpastadev?lang=en
+  </samp>
+</p>
