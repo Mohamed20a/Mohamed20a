@@ -9,6 +9,6 @@
     :email:	m16ahmed17@gmail.com <br>
     :art: Portfolio: https://github.com/Mohamed20a <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-bb358b239/ <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en
+                <!--Twitter: https://twitter.com/Mohamed04740723?lang=en
   </samp>
 </p>
