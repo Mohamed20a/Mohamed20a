@@ -1,4 +1,4 @@
-<img src="https://github.com/Mohamed20a/Mohamed20a/blob/main/photo.jpeg" width="40%" align="center"/>
+<img src="https://github.com/Mohamed20a/Mohamed20a/blob/main/photo.jpeg" width="90%" align="center"/>
  <hr></hr>
 <p align="center" font-size="30px">
   <samp>
