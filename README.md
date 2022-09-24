@@ -1,25 +1,25 @@
 <img width="400px" border="10%" align="right" src="https://github.com/Mohamed20a/Mohamed20a/blob/main/photoo.jpeg"/>
 
-### 👋 Scott's GitHub Profile 👋
+### 👋 Mohamed's GitHub Profile 👋
 
-Hey there, my name is Scott Chacon and I was one of the cofounders of [this here site](https://github.com) you're using right this very minute. I wrote the [Pro Git book](https://git-scm.com/book/en/v2) and the [Git website](https://git-scm.com/). 
+Hey there, my name is Mohamed Ahmed and I always look forward to confrontation, challenge and thinking outside the box I strive to create beautiful and immersive web thro. 
 
-Now I live in Berlin, [investing](https://scne.io) in cool companies and trying to help the world [learn new languages](https://chatterbug.com).
+Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and blog posts to help people learn to code.
 
-- 💻 I’m currently working on [Chatterbug](https://chatterbug.com) and [SCNE](https://scne.io)
-- 🌱 I’m currently learning German and Hotwire
-- 🤔 I’m looking for people building great product in Berlin
-- 💬 Ask me about Berlin, Git, wine, German or learning languages
-- 📫 How to reach me: schacon@gmail.com or Twitter [@chacon](twitter.com/chacon)
-- ✍️ I blog on [Medium](https://medium.com/@chacon) sometimes
+- 💻 I’m Front-End Developer...
+- 🌱 I’m currently learning React JS..
+- 🤔 I’m looking for people building great product
+- 💬 Ask me about Web Development
+- 📫 How to reach me: m16ahmed17@gmail.com or Linkedin [Linkedin](https://www.linkedin.com/in/mohamed-ahmed-bb358b239/)
+- 🤝 I’m looking for help with Competitive Programming
 
-### 🌎 My Languages 🌎
+### 🌎 My programming languages 🌎
 
-- 🇺🇸 English: Native
-- 🇩🇪 German: B2
-- 🤟 ASL: ~B1
-- 🇫🇷 French: A2
-- 🇲🇽 Spanish: A1
-- 🇯🇵 Japanese: ありがとうございます (that's it, that's all of my Japanese)
+- Html/Html5
+- Css/Css3
+- Javascript
+- jQurey
+- Bootstrep
+- I am currently studying React
 
-[What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
+💾 MY CV [CV ✔](https://github.com/Mohamed20a/Mohamed20a/blob/main/CV%20(1).pdf)
