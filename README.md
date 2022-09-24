@@ -1,4 +1,4 @@
-<img width="400px" border="10% solid" align="right" src="https://github.com/Mohamed20a/Mohamed20a/blob/main/photoo.jpeg"/>
+<img width="400px" border="10%" align="right" src="https://github.com/Mohamed20a/Mohamed20a/blob/main/photoo.jpeg"/>
 
 ### 👋 Scott's GitHub Profile 👋
 
