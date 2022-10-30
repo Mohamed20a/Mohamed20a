@@ -12,7 +12,7 @@ Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and 
 - 🌱 I’m currently learning React JS..
 - 🤔 I’m looking for people building great product
 - 💬 Ask me about Web Development
-- 📫 How to reach me: m16ahmed17@gmail.com or Linkedin [Linkedin](https://www.linkedin.com/in/mohamed-ahmed-bb358b239/)
+- 📫 How to reach me: m16ahmed17@gmail.com.
 - 🤝 I’m looking for help with Competitive Programming
 
 <h3 align="left">Connect with me:</h3>
