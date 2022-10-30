@@ -15,6 +15,13 @@ Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and 
 - 📫 How to reach me: m16ahmed17@gmail.com or Linkedin [Linkedin](https://www.linkedin.com/in/mohamed-ahmed-bb358b239/)
 - 🤝 I’m looking for help with Competitive Programming
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ahmed-bb358b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ahmed-bb358b239/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006434713527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006434713527" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m_ahmeeeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_ahmeeeed/" height="30" width="40" /></a>
+</p>
+
 ### 🌎 My programming languages 🌎
 
 - Html/Html5
