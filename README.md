@@ -24,11 +24,11 @@ Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and 
 
 ### 🌎 My programming languages 🌎
 
-- Html/Html5
-- Css/Css3
-- Javascript
-- jQurey
-- Bootstrep
-- I am currently studying React
+- Html/Html5 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+- Css/Css3 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+- Javascript ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+- jQurey ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
+- Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
+- I am currently studying React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 
 💾 MY Curriculum Vitae [CV ✔](https://github.com/Mohamed20a/Mohamed20a/blob/main/CV%20(1).pdf)
