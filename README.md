@@ -31,4 +31,4 @@ Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and 
 - Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
 - I am currently studying React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 
-💾 MY Curriculum Vitae [CV ✔](https://github.com/Mohamed20a/Mohamed20a/blob/main/CV%20(1).pdf)
+💾 MY Curriculum Vitae [https://img.shields.io/badge/-Cv-05122A?style=flat&logo=Cv&logoColor=63D7 ✔](https://github.com/Mohamed20a/Mohamed20a/blob/main/CV%20(1).pdf)
