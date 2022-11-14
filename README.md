@@ -9,7 +9,7 @@ Hey there, my name is Mohamed Ahmed and I always look forward to confrontation, 
 Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and blog posts to help people learn to code.
 
 - 💻 I’m Front-End Developer...
-<!-- - 🌱 I’m currently learning React JS.. -->
+- 🌱 I’m currently learning React JS..
 - 🤔 I’m looking for people building great product
 - 💬 Ask me about Web Development
 - 📫 How to reach me: m16ahmed17@gmail.com.
@@ -27,8 +27,8 @@ Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and 
 - Html/Html5 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 - Css/Css3 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 - Javascript ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+- React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 - jQurey ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
 - Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
-- I am currently studying React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 
 💾 MY Curriculum Vitae [CV ✔](https://github.com/Mohamed20a/Mohamed20a/blob/main/CV%20(1).pdf)
