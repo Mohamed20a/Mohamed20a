@@ -9,7 +9,7 @@ Hey there, my name is Mohamed Ahmed and I always look forward to confrontation, 
 Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and blog posts to help people learn to code.
 
 - 💻 I’m Front-End Developer...
-- 🌱 I’m currently learning React JS..
+<!-- - 🌱 I’m currently learning React JS.. -->
 - 🤔 I’m looking for people building great product
 - 💬 Ask me about Web Development
 - 📫 How to reach me: m16ahmed17@gmail.com.
