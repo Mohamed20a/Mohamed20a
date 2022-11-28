@@ -4,9 +4,9 @@
 
 ### 👋 Mohamed's GitHub Profile 👋
 
-Hey there, my name is Mohamed Ahmed and I always look forward to confrontation, challenge and thinking outside the box I strive to create beautiful and immersive web thro. 
+Hey there, my name is Mohamed Ahmed and I have experience in the field of web development and design.
 
-Now I'm a FrontEnd Engineer and technical writer who uses written tutorials and blog posts to help people learn to code.
+I always look forward to confrontation, challenge and thinking outside the box I strive to create beautiful and immersive web through carefully designed and user focused code instructions I am passionate and energetic as I can develop my skills and gain more experience.
 
 - 💻 I’m Front-End Developer...
 - 🌱 I’m currently learning React JS..
