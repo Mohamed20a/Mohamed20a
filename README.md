@@ -4,7 +4,7 @@
 
 ### 👋 Mohamed's GitHub Profile 👋
 
-Hey there, my name is <h3> Mohamed Ahmed </h3> and I have experience in the field of web development and design.
+Hey there, my name is Mohamed Ahmed and I have experience in the field of web development and design.
 
 I always look forward to confrontation, challenge and thinking outside the box I strive to create beautiful and immersive web through carefully designed and user focused code instructions I am passionate and energetic as I can develop my skills and gain more experience.
 
