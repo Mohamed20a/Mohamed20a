@@ -3,7 +3,6 @@
 <img width="400px" border="10%" align="right" src="https://github.com/Mohamed20a/Mohamed20a/blob/main/photoo.jpeg"/>
 
 ### 👋 Mohamed's GitHub Profile 👋
-![Profile views](https://gpvc.arturio.dev/Mohamed20a)
 
 Hey there, my name is Mohamed Ahmed and I have experience in the field of web development and design.
 
@@ -33,3 +32,4 @@ I always look forward to confrontation, challenge and thinking outside the box I
 - Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
 
 💾 MY Curriculum Vitae [CV ✔](https://www.mediafire.com/file/h3gq58475r9pn97/My+CV.pdf/file)
+![Profile views](https://gpvc.arturio.dev/Mohamed20a)
