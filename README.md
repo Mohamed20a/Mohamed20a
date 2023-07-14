@@ -30,6 +30,7 @@ I always look forward to confrontation, challenge and thinking outside the box I
 - React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 - jQurey ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
 - Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
+- PHP ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=63D7)
 
 💾 MY Curriculum Vitae [CV ✔](https://www.mediafire.com/file/h3gq58475r9pn97/My+CV.pdf/file)
 <br> <br>
