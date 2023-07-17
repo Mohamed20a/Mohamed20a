@@ -8,8 +8,8 @@ Hey there, my name is Mohamed Ahmed and I have experience in the field of web de
 
 I always look forward to confrontation, challenge and thinking outside the box I strive to create beautiful and immersive web through carefully designed and user focused code instructions I am passionate and energetic as I can develop my skills and gain more experience.
 
-- 💻 I’m Front-End Developer...
-- 🌱 I’m currently learning React JS..
+- 💻 I’m Full Stack Web Developer...
+- 🌱 I’m currently learning Laravel..
 - 🤔 I’m looking for people building great product
 - 💬 Ask me about Web Development
 - 📫 How to reach me: m16ahmed17@gmail.com.
@@ -30,7 +30,7 @@ I always look forward to confrontation, challenge and thinking outside the box I
 - React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 - jQurey ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
 - Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
-- PHP ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=63D7)
+- MYSQL ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)
 
 💾 MY Curriculum Vitae [CV ✔](https://www.mediafire.com/file/h3gq58475r9pn97/My+CV.pdf/file)
 <br> <br>
