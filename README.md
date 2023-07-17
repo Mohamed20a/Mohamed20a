@@ -34,4 +34,3 @@ I always look forward to confrontation, challenge and thinking outside the box I
 
 💾 MY Curriculum Vitae [CV ✔](https://www.mediafire.com/file/h3gq58475r9pn97/My+CV.pdf/file)
 <br> <br>
-![Profile views](https://gpvc.arturio.dev/Mohamed20a)
