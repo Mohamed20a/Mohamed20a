@@ -4,12 +4,12 @@
 
 ### 👋 Mohamed's GitHub Profile 👋
 
-Hey there, my name is Mohamed Ahmed and I have experience in the field of web development and design.
+Hey there, 
+I'am Mohamed Ahmed Full Stack Web Developer and I have experience in the field of web development and design, More than a 3 year of experience in frontend and year of Backend.
 
 I always look forward to confrontation, challenge and thinking outside the box I strive to create beautiful and immersive web through carefully designed and user focused code instructions I am passionate and energetic as I can develop my skills and gain more experience.
 
 - 💻 I’m Full Stack Web Developer...
-- 🌱 I’m currently learning Laravel..
 - 🤔 I’m looking for people building great product
 - 💬 Ask me about Web Development
 - 📫 How to reach me: m16ahmed17@gmail.com.
@@ -31,6 +31,7 @@ I always look forward to confrontation, challenge and thinking outside the box I
 - jQurey ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
 - Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+- Laravel ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
 - MYSQL ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)
 
 💾 MY Curriculum Vitae [CV ✔](https://www.mediafire.com/file/h3gq58475r9pn97/My+CV.pdf/file)
