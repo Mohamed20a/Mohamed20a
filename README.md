@@ -20,7 +20,7 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-ahmed-bb358b239/" target="blank">
-      <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="mohamed-ahmed-bb358b239/"/>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
     </a>
     <a href="https://youtube.com/@MohamedElgeadyDevHub?si=9FngCRnoJrEteXkk" target="blank">
       <img align="center" src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="mohamed-ahmed-bb358b239/" />
