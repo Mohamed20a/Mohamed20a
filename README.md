@@ -20,7 +20,7 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-ahmed-bb358b239/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"
        alt="mohamed-ahmed-bb358b239/" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100006434713527" target="blank">
