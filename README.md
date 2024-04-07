@@ -20,16 +20,16 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-ahmed-bb358b239/" target="blank">
-      <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="mohamed-ahmed-bb358b239/" height="30" width="40" />
+      <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="mohamed-ahmed-bb358b239/"/>
     </a>
     <a href="https://youtube.com/@MohamedElgeadyDevHub?si=9FngCRnoJrEteXkk" target="blank">
-      <img align="center" src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="mohamed-ahmed-bb358b239/" height="30" width="40" />
+      <img align="center" src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="mohamed-ahmed-bb358b239/" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100006434713527" target="blank">
       <img align="center" src="https://img.icons8.com/doodle/40/000000/facebook--v2.png" alt="100006434713527"  />
     </a>
     <a href="https://www.instagram.com/m_ahmeeeed/" target="blank">
-      <img align="center" src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="m_ahmeeeed/" height="30" width="40" />
+      <img align="center" src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="m_ahmeeeed/" />
     </a>
 </p>
 
