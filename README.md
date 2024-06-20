@@ -45,5 +45,5 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
 - Laravel ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
 - MYSQL ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)
 
-💾 MY Curriculum Vitae [CV ✔](https://www.mediafire.com/file/h3gq58475r9pn97/My+CV.pdf/file)
+💾 MY Curriculum Vitae [CV ✔](https://drive.google.com/file/d/1ND0m53OF7oT-sJ4vr7w7xUmE6Dr1R4sS/view?usp=sharing)
 <br> <br>
