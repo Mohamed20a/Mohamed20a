@@ -17,7 +17,7 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
 - 📫 How to reach me: m16ahmed17@gmail.com.
 - 🤝 I’m looking for help with Competitive Programming
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left" >
     <a href="https://www.linkedin.com/in/mohamed-ahmed-bb358b239/" target="blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -33,17 +33,6 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
     </a>
 </p>
 
-### 🌎 My programming languages 🌎
-
-- Html/Html5 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-- Css/Css3 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-- Javascript ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-- React ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
-- jQurey ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
-- Bootstrep ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
-- PHP ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-- Laravel ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
-- MYSQL ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)
 
 <h2 align="left">I code with</h2>
 
@@ -70,9 +59,6 @@ I am constantly striving to improve my skills and knowledge. I believe that ongo
 </div>
 
 ###
-
-
-
 
 💾 MY Curriculum Vitae [CV ✔](https://drive.google.com/file/d/1ND0m53OF7oT-sJ4vr7w7xUmE6Dr1R4sS/view?usp=sharing)
 <br> <br>
